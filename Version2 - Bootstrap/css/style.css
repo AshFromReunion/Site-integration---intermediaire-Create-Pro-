@@ -1,0 +1,100 @@
+html body {
+    background: url(../images/bg.jpg) no-repeat;
+    font-weight: bold;
+    color: #7a7a7a;
+    font-family: "Bitter";
+}
+
+.container h1 {
+    font-size: 150px;
+    color: #cfa205;
+    font-weight: 100;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+}
+
+.container h2 {
+    margin-bottom: 30px;
+    color: #cfa205;
+    font-size: 18px;
+}
+
+.container h3 {
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 15px;
+}
+
+
+/*debut header*/
+
+header .navbar-default {
+    background-color: transparent;
+    border: none;
+}
+
+header .fond-header {
+    background-color: black;
+}
+
+header .fond-header-gris {
+    background-color: #e8e8e8;
+    padding: 10px 0;
+}
+
+header .fa-facebook,
+header .fa-twitter,
+header .fa-google-plus,
+header .fa-pinterest,
+header .fa-youtube {
+    font-size: 20px;
+    margin: 0 4px;
+    border: 2px solid #7a7a7a;
+    border-radius: 50px;
+    height: 35px;
+    width: 35px;
+    padding-top: 5px;
+}
+
+.container .navbar-default .navbar-nav li a {
+    color: white;
+    font-family: "Josefin Sans";
+}
+
+.container .navbar-default .navbar-nav li a:hover {
+    color: #cfa205;
+}
+
+
+/*fin header*/
+
+
+/*debut section*/
+
+.section {
+    background-color: white;
+}
+
+.container .espace-bloc {
+    padding: 50px;
+    margin: 0;
+    font-size: 14px;
+}
+
+article img {
+    width: 316px;
+}
+
+.container .intro {
+    font-size: 18px;
+}
+
+.container hr {
+    width: 88%;
+    border-top: 2px solid #e7e7e7;
+}
+
+
+/*fin section*/
